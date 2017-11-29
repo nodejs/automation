@@ -18,7 +18,7 @@ the organization.
     - **@nodejs/automation-admins**: has admin access to all
     automation-related repositories.
 
-## Projects / Repositories
+## Projects / Repositories maintained by [automation](https://github.com/nodejs/automation)
 
 - [automation](https://github.com/nodejs/automation)
   - General discussions and documentations about automation.
