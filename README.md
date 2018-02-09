@@ -9,14 +9,70 @@ We are the @nodejs/automation team.
 The Node.js Automation Team focuses on building tools, bots and scripts that
 help Node.js collaborators maintain the Node.js project.
 
-The automation team is currently structured like this:
+### @nodejs/automation
 
-- **@nodejs/automation**: people to ping for automation-related issues in
-the organization.
-  - **@nodejs/automation-collaborators**: has write access to all
-  automation-related repositories.
-    - **@nodejs/automation-admins**: has admin access to all
-    automation-related repositories.
+People to ping for automation-related issues in the organization.
+
+<!-- ncu-team-sync.team(nodejs/automation) -->
+
+- [@aashil](https://github.com/aashil) - Aashil Patel
+- [@abouthiroppy](https://github.com/abouthiroppy) - Yuta Hiroto
+- [@al-k21](https://github.com/al-k21) - Oleksandr Kushchak
+- [@alopezsanchez](https://github.com/alopezsanchez) - Alejandro López
+- [@BethGriggs](https://github.com/BethGriggs) - Bethany Nicolle Griggs
+- [@bnb](https://github.com/bnb) - Tierney Cyren
+- [@cPhost](https://github.com/cPhost) - Priyank P.
+- [@ev1stensberg](https://github.com/ev1stensberg) - Even Stensberg
+- [@evanlucas](https://github.com/evanlucas) - Evan Lucas
+- [@gibfahn](https://github.com/gibfahn) - Gibson Fahnestock
+- [@GithubGoldMiner](https://github.com/GithubGoldMiner) - MaxM422
+- [@JasonEtco](https://github.com/JasonEtco) - Jason Etcovitch
+- [@joshholl](https://github.com/joshholl) - Joshua Hollandsworth
+- [@joyeecheung](https://github.com/joyeecheung) - Joyee Cheung
+- [@maclover7](https://github.com/maclover7) - Jon Moss
+- [@matchai](https://github.com/matchai) - Matan Kushner
+- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@nodejs-github-bot](https://github.com/nodejs-github-bot) - Node.js GitHub Bot
+- [@phillipj](https://github.com/phillipj) - Phillip Johnsen
+- [@refack](https://github.com/refack) - Refael Ackermann
+- [@richardlau](https://github.com/richardlau) - Richard Lau
+- [@riyadhalnur](https://github.com/riyadhalnur) - Riyadh Al Nur
+- [@rvagg](https://github.com/rvagg) - Rod Vagg
+- [@targos](https://github.com/targos) - Michaël Zasso
+- [@Tiriel](https://github.com/Tiriel) - Benjamin Zaslavsky
+- [@tniessen](https://github.com/tniessen) - Tobias Nießen
+- [@vicky002](https://github.com/vicky002) - Vikesh Tiwari
+
+<!-- ncu-team-sync end -->
+
+### @nodejs/automation-collaborators
+
+People who have write access to all automation-related repositories.
+
+<!-- ncu-team-sync.team(nodejs/automation-collaborators) -->
+
+- [@evanlucas](https://github.com/evanlucas) - Evan Lucas
+- [@joyeecheung](https://github.com/joyeecheung) - Joyee Cheung
+- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@nodejs-github-bot](https://github.com/nodejs-github-bot) - Node.js GitHub Bot
+- [@rvagg](https://github.com/rvagg) - Rod Vagg
+- [@targos](https://github.com/targos) - Michaël Zasso
+
+<!-- ncu-team-sync end -->
+
+### @nodejs/automation-admins
+
+People who have admin access to all automation-related repositories.
+
+<!-- ncu-team-sync.team(nodejs/automation-admins) -->
+
+- [@evanlucas](https://github.com/evanlucas) - Evan Lucas
+- [@joyeecheung](https://github.com/joyeecheung) - Joyee Cheung
+- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@rvagg](https://github.com/rvagg) - Rod Vagg
+- [@targos](https://github.com/targos) - Michaël Zasso
+
+<!-- ncu-team-sync end -->
 
 ## Projects / Repositories maintained by [automation](https://github.com/nodejs/automation)
 
