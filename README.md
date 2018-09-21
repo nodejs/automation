@@ -1,13 +1,19 @@
 # Node.js Automation Team
 
-[![Join the chat at https://gitter.im/nodejs/automation](https://badges.gitter.im/nodejs/automation.svg)](https://gitter.im/nodejs/automation)
-
-We are the @nodejs/automation team.
-
-## About the Team
-
 The Node.js Automation Team focuses on building tools, bots and scripts that
 help Node.js collaborators maintain the Node.js project.
+
+### Getting Involved
+
+- This team serves the Node.js collaborators and releasers, so if you want to
+  get involved but are not one of them, you may want to learn more about the
+  development and release process of Node.js before rolling up your sleeves.
+- Hop on the [#node-dev](https://webchat.freenode.net/?channels=node-dev) IRC
+  channel if you have questions about Node.js's development or release process.
+- Hop on the [#node-build](https://webchat.freenode.net/?channels=node-build)
+  IRC channel if you have questions about the Node.js CI. There is also the
+  [nodejs/build](https://github.com/nodejs/build) repository where the
+  Node.js build working group can help you with Node.js's build infrastructure.
 
 ### @nodejs/automation
 
